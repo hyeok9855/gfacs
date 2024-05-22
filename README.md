@@ -1,5 +1,5 @@
 # gfacs
-This repository contains the implementation code for our research paper, "Ant Colony Sampling with GFlowNets for Combinatorial Optimization."
+This repository contains the implementation code for our research paper, "Ant Colony Sampling with GFlowNets for Combinatorial Optimization." Our implementation is built upon the [DeepACO codebase](https://github.com/henry-yeh/DeepACO).
 
 ## Dependencies
 - Python 3.11.5
